@@ -3,10 +3,12 @@
 ## Backend
 
 cd backend 
+npm i
 npm start
 
 ## Frontend
 cd backend 
+npm i
 npm start
 
 ## Post man collection
